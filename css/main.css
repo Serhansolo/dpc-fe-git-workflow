@@ -1,0 +1,25 @@
+html {
+    font-family: Cambria, sans-serif;
+
+}
+.container {
+    background-color: #fffdfa;
+    background-image: url("../img/git-logo.png");
+    background-repeat: no-repeat;
+    background-size: 10em;
+    background-position: 0 1em;
+    width: 590px;
+    margin: 0 auto;
+    padding-top: 5em;
+    text-align: left;
+}
+
+.container .head {
+    margin-bottom: 3em;
+    border-bottom: .1em solid #e2e2e2;
+}
+
+.container .block {
+    margin-bottom: 2em;
+    border-bottom: .1em dotted #eaeaea;
+}
